@@ -26,7 +26,7 @@ def listbeers():
     ["Young's Double Chocolate Stout", "Milk Stout", "5.2% ABV", "25 IBU", "England", 24],
     ["Exit 6 The Wicked", "Pumpkin Beer", "9% ABV", "20 IBU", "Missouri", 25],
     ["New Belgium Lips of Faith", "Flanders Oud Bruin", "7% ABV", "18 IBU", "Colorado", 26],
-    ["Hofbräu Oktoberfestbier", "Oktoberfest", "6.3% ABV", "N/A IBU", "Germany", 27],
+    ["Hofbrau Oktoberfestbier", "Oktoberfest", "6.3% ABV", "N/A IBU", "Germany", 27],
     ["Sam Adams Oktoberfest", "Oktoberfest", "5.3% ABV", "16 IBU", "Massachusetts", 28],
     ["Kirkwood Station Blackberry Wheat", "Fruit Beer", "4.8% ABV", "11 IBU", "Missouri", 29],
     ["Mikkeller It's Alive Barrel Aged White Wine", "Sour Ale", "8% ABV", "N/A IBU", "Denmark", 30],
