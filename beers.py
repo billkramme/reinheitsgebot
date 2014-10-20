@@ -25,7 +25,7 @@ def listbeers():
     ["Schlafly Hefeweizen", "Hefeweizen", "4.4% ABV", "16 IBU", "Missouri", 23],
     ["Young's Double Chocolate Stout", "Milk Stout", "5.2% ABV", "25 IBU", "England", 24],
     ["Exit 6 The Wicked", "Pumpkin Beer", "9% ABV", "20 IBU", "Missouri", 25],
-    ["New Belgium Lips of Faith", "Flanders Oud Bruin", "7% ABV", "18 IBU", "Colorado", 26],
+    ["New Belgium Lips of Faith La Folie", "Flanders Oud Bruin", "7% ABV", "18 IBU", "Colorado", 26],
     ["Hofbrau Oktoberfestbier", "Oktoberfest", "6.3% ABV", "N/A IBU", "Germany", 27],
     ["Sam Adams Oktoberfest", "Oktoberfest", "5.3% ABV", "16 IBU", "Massachusetts", 28],
     ["Kirkwood Station Blackberry Wheat", "Fruit Beer", "4.8% ABV", "11 IBU", "Missouri", 29],
@@ -59,5 +59,5 @@ def listbeers():
     ["Civil Life Eric's Peat Smoked Special Beer", "ESB", "5.1% ABV", "N/A IBU", "Missouri", 57],
     ["Leinenkugel Summer Shandy", "Radler", "4.2% ABV", "14 IBU", "Wisconsin", 58],
     ["Brabandere Petrus Aged Pale", "Sour Ale", "7.3% ABV", "N/A IBU", "Belgium", 59],
-    
+    ["New Belgium Lips of Faith Le Terroir", "American Wild Ale", "7.5% ABV", "N/A IBU", "Colorado", 60],
 ]
