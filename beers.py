@@ -4,7 +4,7 @@ def listbeers():
     ["Shiner Bock", "Bock", "4.4% ABV", "13 IBU", "Texas", 2],
     ["Guinness Draught", "Irish Dry Stout", "4.2% ABV", "40 IBU", "Ireland", 3],
     ["Sierra Nevada Narwhal", "Russian Imperial Stout", "10.2% ABV", "60 IBU", "California", 4],
-    ["Horny Goat Exposed", "Cream Ale", "4.9% ABV", "13 IBU", "Wisconsin", 5]
+    ["Horny Goat Exposed", "Cream Ale", "4.9% ABV", "13 IBU", "Wisconsin", 5],
     ["West Sixth Pay-It-Forward Cocoa Porter", "Porter", "7% ABV", "N/A IBU", "Kentucky", 6],
     ["Great Flood Brown", "English Brown Ale", "6.8% ABV", "26 IBU", "Kentucky", 7],
     ["Schlafly Pumpkin Ale", "Pumpkin Beer", "8% ABV", "16 IBU", "Missouri", 8],
