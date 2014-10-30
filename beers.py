@@ -60,4 +60,5 @@ def listbeers():
     ["Leinenkugel Summer Shandy", "Radler", "4.2% ABV", "14 IBU", "Wisconsin", 58],
     ["Brabandere Petrus Aged Pale", "Sour Ale", "7.3% ABV", "N/A IBU", "Belgium", 59],
     ["New Belgium Lips of Faith Le Terroir", "American Wild Ale", "7.5% ABV", "N/A IBU", "Colorado", 60],
+    ["Wahoo White Beer", "Witbier", "4.5% ABV", "N/A IBU", "California", 61],
 ]
