@@ -61,4 +61,6 @@ def listbeers():
     ["Brabandere Petrus Aged Pale", "Sour Ale", "7.3% ABV", "N/A IBU", "Belgium", 59],
     ["New Belgium Lips of Faith Le Terroir", "American Wild Ale", "7.5% ABV", "N/A IBU", "Colorado", 60],
     ["Wahoo White Beer", "Witbier", "4.5% ABV", "N/A IBU", "California", 61],
+    ["Civil Life American Brown", "American Brown Ale", "4.8% ABV", "35 IBU", "Missouri", 62],
+    ["Perennial Abraxas", "American Double/Imperial Stout", "10% ABV", "80 IBU", "Missouri" 63],
 ]
