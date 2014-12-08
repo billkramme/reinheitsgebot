@@ -63,4 +63,5 @@ def listbeers():
     ["Wahoo White Beer", "Witbier", "4.5% ABV", "N/A IBU", "California", 61],
     ["Civil Life American Brown", "American Brown Ale", "4.8% ABV", "35 IBU", "Missouri", 62],
     ["Perennial Abraxas", "American Double/Imperial Stout", "10% ABV", "80 IBU", "Missouri", 63],
+    ["Kostritzer Schwarzbier", "Schwarzbier", "4.8% ABV", "26 IBU", "Germany", 64],
 ]
