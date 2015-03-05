@@ -64,4 +64,13 @@ def listbeers():
     ["Civil Life American Brown", "American Brown Ale", "4.8% ABV", "35 IBU", "Missouri", 62],
     ["Perennial Abraxas", "American Double/Imperial Stout", "10% ABV", "80 IBU", "Missouri", 63],
     ["Kostritzer Schwarzbier", "Schwarzbier", "4.8% ABV", "26 IBU", "Germany", 64],
+    ["Sun King Wee Mac", "Scottish Ale", "5.3 ABV", "N/A IBU", "Indiana", 65],
+    ["3 Floyds Robert The Bruce", "Scottish Ale", "6.5% ABV", "24 IBU", "Indiana", 66],
+    ["Flat 12 Pogue's Run Porter", "American Porter", "5.5% ABV", "N/A IBU", "Indiana", 67],
+    ["Mad Anthony Auburn Lager", "American Amber", "4.6% ABV", "N/A IBU", "Indiana", 68],
+    ["Oaken Barrel Razz Wheat", "Fruit Beer", "5.0% ABV", "N/A IBU", "Indiana", 69],
+    ["Upland Wheat", "Witbier", "4.5% ABV", "N/A IBU", "Indiana", 70],
+    ["Kentucky Bourbon Barrel Ale", "English Strong Ale", "8.2% ABV", "N/A IBU", "Kentucky", 71]
+    ["Dundee Original Honey Brown Lager", "American Amber", "4.5% ABV", "N/A IBU", "New York", 72]
+    ["Big Sky Trout Slayer", "American Pale Wheat Ale", "5.0% ABV", "N/A IBU", "Montana", 73]
 ]
