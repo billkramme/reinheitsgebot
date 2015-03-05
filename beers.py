@@ -70,7 +70,7 @@ def listbeers():
     ["Mad Anthony Auburn Lager", "American Amber", "4.6% ABV", "N/A IBU", "Indiana", 68],
     ["Oaken Barrel Razz Wheat", "Fruit Beer", "5.0% ABV", "N/A IBU", "Indiana", 69],
     ["Upland Wheat", "Witbier", "4.5% ABV", "N/A IBU", "Indiana", 70],
-    ["Kentucky Bourbon Barrel Ale", "English Strong Ale", "8.2% ABV", "N/A IBU", "Kentucky", 71]
-    ["Dundee Original Honey Brown Lager", "American Amber", "4.5% ABV", "N/A IBU", "New York", 72]
-    ["Big Sky Trout Slayer", "American Pale Wheat Ale", "5.0% ABV", "N/A IBU", "Montana", 73]
+    ["Kentucky Bourbon Barrel Ale", "English Strong Ale", "8.2% ABV", "N/A IBU", "Kentucky", 71],
+    ["Dundee Original Honey Brown Lager", "American Amber", "4.5% ABV", "N/A IBU", "New York", 72],
+    ["Big Sky Trout Slayer", "American Pale Wheat Ale", "5.0% ABV", "N/A IBU", "Montana", 73],
 ]
